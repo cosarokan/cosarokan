@@ -4,10 +4,10 @@ I'm a jr. software developer. I'm from Turkey and i live in Istanbul. I enjoy wr
 
 
 - 🌱 I’m currently learning: 
-  Windows Form App, Entity Framework, MS SQL Server, ASP.NET Core
+- Windows Form App, Entity Framework, MS SQL Server, ASP.NET Core
 
 - 📫 How to reach me..
-   LinkedIn: https://www.linkedin.com/in/okancosar/
-   Instagram: https://www.instagram.com/okancosaar/
+- LinkedIn: https://www.linkedin.com/in/okancosar/
+- Instagram: https://www.instagram.com/okancosaar/
 
 
